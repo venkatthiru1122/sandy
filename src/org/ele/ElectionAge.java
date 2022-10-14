@@ -10,7 +10,8 @@ public class ElectionAge {
 
 			
 		} else {
-			System.out.println("Not Eligible");	
+			System.out.println("Not Eligible");
+			System.out.println("Okay");
 
 
 		}
